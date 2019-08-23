@@ -16,5 +16,5 @@
  var leastFavoriteCustomer = 'dan';
  
  function changeLeastFavoriteCustomer() {
-   
+   leastFavoriteCustomer = 'not dan';
  }
