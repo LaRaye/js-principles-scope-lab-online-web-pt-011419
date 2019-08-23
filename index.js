@@ -13,4 +13,4 @@
    bestCustomer = 'maybe bob';
  }
  
- var leastFavoriteCustomer;
+ var leastFavoriteCustomer = 'dan';
