@@ -9,4 +9,6 @@
   bestCustomer = 'not bob';
  }
  
- 
+ function overwriteBestCustomer() {
+   
+ }
