@@ -14,3 +14,7 @@
  }
  
  var leastFavoriteCustomer = 'dan';
+ 
+ function changeLeastFavoriteCustomer() {
+   
+ }
